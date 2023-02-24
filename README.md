@@ -24,6 +24,10 @@ Here,
 - It comes by default but needs to be configured.
 - It is not used or configured by default due to longer compilation, application getting heavier and thus, decreased performance.
 - Use it and configure only when u need it.
+- Read more about ASP.NET CORE Middleware: https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-6.0
+- How to enable CORS when using .net 5.0?
+	https://jasonwatmore.com/post/2021/05/26/net-5-api-allow-cors-requests-from-any-origin-and-with-credentials
+
   
 ### Steps:
 The api controller "GreetingsController" has four GET action methods:
